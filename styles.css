@@ -38,10 +38,10 @@ h1, h2, h3, h4, h5, h6, p{
     justify-content: center;
     align-items: center;
 }
-.container{
+/*.container{
     width: 90vw;
     margin: 0 auto;
-}
+}*/
 .active{
     color: #fff!important;
 }
@@ -389,7 +389,7 @@ img {vertical-align: middle;}
   /* On hover */
   .prev:hover, .next:hover {
     background-color: transparent;
-    color:rgb(116, 113, 113);
+    color:black ;
   }
 
 
